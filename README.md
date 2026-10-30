@@ -12,6 +12,7 @@ I like finding the weak point before someone else does, then fixing it properly.
 ## Projects
 - **[Deepfake Detection System](https://github.com/Hussa-Almusayab/Deepfake-Detection-App):** bilingual Streamlit app, FaceForensics++ baseline (team of 6)
 - **[Locker Management System](https://github.com/Hussa-Almusayab/Locker-Management-System):** ASP.NET + SQL Server (team of 8)
+- **[api-security-bola-lab](https://github.com/Hussa-Almusayab/api-security-bola-lab):** an educational lab for BOLA (vulnerable vs. fixed)
 
 ## Toolbox
 C# · ASP.NET · Python · SQL Server · TensorFlow/Keras · Streamlit · Power BI · Linux/Kali · Git
