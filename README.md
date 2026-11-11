@@ -10,6 +10,7 @@ I like finding the weak point before someone else does, then fixing it properly.
 - 📋 GRC aligned with Saudi frameworks: NCA ECC, SAMA CSF
 
 ## Projects
+- **[Yaqza | يقظة](https://github.com) ([Live Demo](https://streamlit.app)):** Arabic cybersecurity & compliance learning game built with Python & Streamlit, inspired by NCA ECC principles
 - **[Deepfake Detection System](https://github.com/Hussa-Almusayab/Deepfake-Detection-App):** bilingual Streamlit app, FaceForensics++ baseline (team of 6)
 - **[Locker Management System](https://github.com/Hussa-Almusayab/Locker-Management-System):** ASP.NET + SQL Server (team of 8)
 - **[api-security-bola-lab](https://github.com/Hussa-Almusayab/api-security-bola-lab):** an educational lab for BOLA (vulnerable vs. fixed)
