@@ -16,10 +16,10 @@ I like finding the weak point before someone else does, then fixing it properly.
 - **[Locker Management System](https://github.com/Hussa-Almusayab/Locker-Management-System):** ASP.NET + SQL Server (team of 8)
 
 ## Toolbox
-C# · ASP.NET · Python · SQL Server · TensorFlow/Keras · Streamlit · Power BI · Linux/Kali · Git
+C# · ASP.NET · Python · SQL Server · TensorFlow/Keras · Streamlit · Pytest · GitHub Actions · Nmap · Wireshark · Power BI · Linux/Kali · Git
 
 ## Certifications
-Hemaya Elite (GRC) · Tuwaiq Academy (Network Security, Cryptography, SSH, Power BI, C#) · IAU Cooperative Training
+IBM SkillsBuild (Foundations in Generative AI) · Dar Al-Ruaa (Cybersecurity Skills, 25h, TVTC-accredited) · Hemaya Elite (GRC) · Tuwaiq Academy (Network Security, Cryptography, SSH, Power BI, C#) · IAU Cooperative Training
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/hussa-almusayab) · [X](https://x.com/HussaSecureCode) · [Email](mailto:h.fahad.1423@gmail.com)
